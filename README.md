@@ -6,7 +6,11 @@ Problem Statement : Often, financial institutions need to categorize their custo
 
 The project is done in 6 steps:
 
-Introduction Dataset cleaning and Pre-processing Accounting for class imbalance Training the ML model- Two-Class Boosted Decision tree; Hyper parameter tuning Scoring and Evaluating the models Publishing the trained model as a Web Service
+-Introduction Dataset cleaning and Pre-processing 
+-Accounting for class imbalance 
+-Training the ML model- Two-Class Boosted Decision tree
+-Hyper parameter tuning Scoring and Evaluating the models
+-Publishing the trained model as a Web Service
 
 The aim of this project is to build an end-to-end Machine Learning (ML here after) project using the Azure Machine Learning Studio Visual interface which is a no-code platform.
 
