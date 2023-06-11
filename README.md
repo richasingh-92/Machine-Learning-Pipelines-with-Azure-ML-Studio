@@ -21,11 +21,16 @@ predict whether a person will earn more than $50,000 a year or not. Since the da
 (>50K or andlt;=50K), this is clearly a classification problem and we train the classification models to
 predict the desired outputs.
 
-Aim:
-The aim of this project is to check if an adult has income exceeding 50k per year based on the census data.
 
-Algorithm Used:
-For the following project, I have used the Decision Tree (Booster) algorithm to create and train the model.
+![DATA CLEANING AND ACCOUNTING FOR CLASS IMBALANCE](https://github.com/richasingh-92/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/91095253/25836284-1d8a-4d3e-83bd-23728094983c)
+![TRAINING TO MODELS](https://github.com/richasingh-92/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/91095253/aa9fbd14-3855-4565-aecb-f23c4b1d8d26)
+![Training a Two-Class Boosted Decision Tree Model](https://github.com/richasingh-92/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/91095253/c15e42ab-fc4d-4b3c-b283-ef2932261dc5)
+![Scoring and Evaluating the Models](https://github.com/richasingh-92/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/91095253/ed9c0f2c-bc6d-4f07-88b5-1a80478439e7)
+![Publishing the Trained Model as a Web Service for Inference](https://github.com/richasingh-92/Machine-Learning-Pipelines-with-Azure-ML-Studio/assets/91095253/068c2a87-0baa-46ba-9fce-01961c265577)
 
-Delivery
-The model is available as an azure model web service. This exposes an API to perform a GET request for using the interface.
+
+
+
+
+
+
